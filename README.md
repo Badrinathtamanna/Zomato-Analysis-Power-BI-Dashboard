@@ -19,7 +19,7 @@ Tools Used:
 •	Power BI Desktop
 
 Usage:
-•	Open Zomata Analysis - Dataset.xlsx file on Power BI desktop
+•	Open Zomato Analytics Project - Power BI.pbix file on Power BI desktop
 •	Import the Power BI Desktop file (.pbix) into Power BI Desktop.
 •	Explore the dashboard page and interact with the visualizations.
 
