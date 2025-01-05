@@ -23,5 +23,7 @@ Usage:
 •	Import the Power BI Desktop file (.pbix) into Power BI Desktop.
 •	Explore the dashboard page and interact with the visualizations.
 
-Author: Badrinath Tamanna
+Contact:
+Badrinath Tamanna
+LinkedIn: www.linkedin.com/in/badrinath-tamanna
 Email: badrinath.tamanna2@gmail.com
